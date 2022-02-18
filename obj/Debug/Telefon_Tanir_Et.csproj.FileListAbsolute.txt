@@ -1,0 +1,21 @@
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.csprojAssemblyReference.cache
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.Form1.resources
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.Properties.Resources.resources
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.csproj.GenerateResource.cache
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.csproj.CoreCompileInputs.cache
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\bin\Debug\Telefon_Tanir_Et.exe.config
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\bin\Debug\Telefon_Tanir_Et.exe
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\bin\Debug\Telefon_Tanir_Et.pdb
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.exe
+C:\Users\cumaa\source\repos\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.pdb
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\bin\Debug\Telefon_Tanir_Et.exe.config
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\bin\Debug\Telefon_Tanir_Et.exe
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\bin\Debug\Telefon_Tanir_Et.pdb
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.csprojAssemblyReference.cache
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.Form1.resources
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.Properties.Resources.resources
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.csproj.GenerateResource.cache
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.exe
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.pdb
+C:\Users\aa\Desktop\Telefon Tamir\Telefon_Tanir_Et\Telefon_Tanir_Et\obj\Debug\Telefon_Tanir_Et.Form2.resources
